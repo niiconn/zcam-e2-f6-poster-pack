@@ -1,0 +1,9 @@
+# ignore all logs
+*.log
+
+# ignore folders
+vorlage/
+.nova/
+
+# ignore files
+f6_res.numbers
